@@ -1,6 +1,6 @@
-## Center for Cognition Research (C4R)
+## Nepal Center for Cognition and Society (NCCS)
 
-_C4R_ is a multidisciplinary research center based in Nepal.
+_NCCS_ is a multidisciplinary research center based in Nepal.
 
 We study human cognition using behavioral and electrophysiological methods and computational modeling.
 
