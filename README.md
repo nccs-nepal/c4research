@@ -8,7 +8,7 @@ In collaboration with researchers at home and abroad, we aim to establish oursel
 
 At this early stage of our institute, we invite collaborators, funders, and well-wishers to contribute to our growth and development in any form they can.
 
-- [Dr Pratik Bhandari](https://www.pratikb.com) @[pratik-bhandari](https://github.com/pratik-bhandari/pratik-bhandari), Director
+- [Dr Pratik Bhandari](https://www.pratikb.com) @[pratik-bhandari](https://github.com/pratik-bhandari/), Director
   
   
 
